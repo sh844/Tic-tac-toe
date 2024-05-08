@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+}
+#0{
+  border: 2px solid red;
+}
+.input{
+  padding: 2px;
+}
+p{
+  text-align: center;
+}
+div{
+  text-align: center;
+}
+.box{
+  cursor: pointer;
+  background-color: gray;
+}
