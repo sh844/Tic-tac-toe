@@ -1,19 +1,37 @@
-h1{
+h1 {
   text-align: center;
 }
-#0{
-  border: 2px solid red;
+
+.abc {
+  display: flex;
+  justify-content: center;
 }
-.input{
-  padding: 2px;
+
+.xyz {
+  display: flex;
+  justify-content: center;
 }
-p{
+
+.pqr {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  border: 2px solid black;
+  padding: 25px 30px;
+}
+
+input {
+  width: 8px;
+}
+
+p {
   text-align: center;
 }
-div{
-  text-align: center;
-}
-.box{
-  cursor: pointer;
-  background-color: gray;
+
+.button {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
